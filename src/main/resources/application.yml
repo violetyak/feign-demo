@@ -1,0 +1,6 @@
+server:
+  port: 8086
+
+lims:
+  username: admin
+  password: "3vyiqi"
